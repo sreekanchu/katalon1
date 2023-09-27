@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoanCreation12</name>
+   <tag>LoanCreate</tag>
+   <comment></comment>
+   <testCaseGuid>f10fa5a9-dadf-456c-b7e9-ef0ef27c0b7c</testCaseGuid>
+</TestCaseEntity>

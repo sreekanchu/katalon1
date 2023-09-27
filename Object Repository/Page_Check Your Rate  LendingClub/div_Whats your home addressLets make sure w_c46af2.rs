@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Whats your home addressLets make sure w_c46af2</name>
+   <tag></tag>
+   <elementGuidId>231ce875-19a6-432e-92b5-c160cfabd974</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pi1-1QAAT']/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>587edc57-b928-4a60-8f2f-82b6bc386d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page page--address </value>
+      <webElementGuid>711832f5-ab4f-4d9d-9d3e-5c7ab1dfc434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What’s your home address?Let’s make sure we find the right Sreekant.Street AddressEnter a residential address (no P.O. boxes or commercial addresses)CityStateZipNext</value>
+      <webElementGuid>833b0a9b-0c7f-44b1-8862-e7955eef20bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pi1-1QAAT&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page page--address&quot;]</value>
+      <webElementGuid>85023062-a3ab-44eb-97ee-efc6b6c24c15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pi1-1QAAT']/div[2]/div[2]</value>
+      <webElementGuid>ce4d0f8d-15b9-4565-a0d4-b37e03c4a288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What’s your home address?'])[1]/following::div[8]</value>
+      <webElementGuid>959ef9b0-4981-41d9-9585-aa9b14f7a560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[2]/following::div[12]</value>
+      <webElementGuid>82366bbd-5155-4f04-bfc6-58879dce2fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]</value>
+      <webElementGuid>41c90350-954e-4cca-99f7-585a4b2f9480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'What’s your home address?Let’s make sure we find the right Sreekant.Street AddressEnter a residential address (no P.O. boxes or commercial addresses)CityStateZipNext' or . = 'What’s your home address?Let’s make sure we find the right Sreekant.Street AddressEnter a residential address (no P.O. boxes or commercial addresses)CityStateZipNext')]</value>
+      <webElementGuid>0e2813ae-e28a-4d7a-b053-e65380452c88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

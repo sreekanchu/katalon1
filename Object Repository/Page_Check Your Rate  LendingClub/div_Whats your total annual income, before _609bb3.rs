@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Whats your total annual income, before _609bb3</name>
+   <tag></tag>
+   <elementGuidId>84e61105-6c69-4252-9535-d454459df24f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pi1-1QAAT']/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d887e929-86fb-441b-960a-836edf4ef18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page page--income </value>
+      <webElementGuid>b225585f-1112-4f33-b747-ce017e8fc2dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What’s your total annual income, before taxes?Understanding your total income from all sources helps us personalize the best loan offer for you.Total Annual Income$The income you have entered is above the maximum income allowed.What can I include as total annual income?Some examples of income include the following:Income from employment, including full-time, part-time, freelance, or seasonal jobsSelf-employment, including any business dividends or rental incomeNon-taxable income, if included, should be increased by 25%Any other income such as retirement, social security, public assistance, or any non-taxable incomeOnly include alimony, child support, or separate maintenance if you wish for us to consider it as a source of repaymentNext</value>
+      <webElementGuid>b8a52b88-29b3-4c6a-bcf3-194228595b28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pi1-1QAAT&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page page--income&quot;]</value>
+      <webElementGuid>39f1b8a9-f113-4ca2-bcf8-7a2eccc47728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pi1-1QAAT']/div[2]/div[2]</value>
+      <webElementGuid>b65ec03c-d48c-475e-a243-8880fa132b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What’s your total annual income, before taxes?'])[1]/following::div[8]</value>
+      <webElementGuid>a04d2119-ffdc-4766-b269-c898401267ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[2]/following::div[12]</value>
+      <webElementGuid>49b31ef2-03c2-45e9-af24-022d05ec40bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]</value>
+      <webElementGuid>8479e924-53ed-4406-bb90-56efe4ce007f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'What’s your total annual income, before taxes?Understanding your total income from all sources helps us personalize the best loan offer for you.Total Annual Income$The income you have entered is above the maximum income allowed.What can I include as total annual income?Some examples of income include the following:Income from employment, including full-time, part-time, freelance, or seasonal jobsSelf-employment, including any business dividends or rental incomeNon-taxable income, if included, should be increased by 25%Any other income such as retirement, social security, public assistance, or any non-taxable incomeOnly include alimony, child support, or separate maintenance if you wish for us to consider it as a source of repaymentNext' or . = 'What’s your total annual income, before taxes?Understanding your total income from all sources helps us personalize the best loan offer for you.Total Annual Income$The income you have entered is above the maximum income allowed.What can I include as total annual income?Some examples of income include the following:Income from employment, including full-time, part-time, freelance, or seasonal jobsSelf-employment, including any business dividends or rental incomeNon-taxable income, if included, should be increased by 25%Any other income such as retirement, social security, public assistance, or any non-taxable incomeOnly include alimony, child support, or separate maintenance if you wish for us to consider it as a source of repaymentNext')]</value>
+      <webElementGuid>79dff86c-710e-487c-961e-38aef49b503f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

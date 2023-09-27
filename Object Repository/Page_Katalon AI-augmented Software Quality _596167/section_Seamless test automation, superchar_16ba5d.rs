@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Seamless test automation, superchar_16ba5d</name>
+   <tag></tag>
+   <elementGuidId>155cfc4b-7d62-4dc6-9999-6fa5de4ef628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.hero_section</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>d28da0b0-43d5-40bf-a8f1-9a986052d55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hero_section</value>
+      <webElementGuid>b9930598-21e1-41bd-a928-7df2e6ee2c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seamless test automation, supercharged by AIWrite tests faster, get clearer insights, and improve coverage with an AI-augmented platform.Start free trialView a demoHelping 30K+ software, DevOps and quality teams test and launch software faster.</value>
+      <webElementGuid>ab60c9eb-4055-477b-bc7d-7406bf3293c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;HomePage_wrapHomePage__zdHwS&quot;]/section[@class=&quot;hero_section&quot;]</value>
+      <webElementGuid>376d74dd-2aad-44e8-8070-5cdac4231a1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section</value>
+      <webElementGuid>c12681f4-adf9-4f8b-a92a-cedf700739f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[2]/following::section[1]</value>
+      <webElementGuid>0ffb1a00-b18d-4eb8-a5f4-d46c122f9da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Being here'])[2]/following::section[1]</value>
+      <webElementGuid>830188f0-0e21-4cf8-967f-81b29c444ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section</value>
+      <webElementGuid>a12916d8-8e06-4e39-8563-bb1dca78d98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Seamless test automation, supercharged by AIWrite tests faster, get clearer insights, and improve coverage with an AI-augmented platform.Start free trialView a demoHelping 30K+ software, DevOps and quality teams test and launch software faster.' or . = 'Seamless test automation, supercharged by AIWrite tests faster, get clearer insights, and improve coverage with an AI-augmented platform.Start free trialView a demoHelping 30K+ software, DevOps and quality teams test and launch software faster.')]</value>
+      <webElementGuid>2c466564-695d-4e18-b074-6136d9ffcbd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
