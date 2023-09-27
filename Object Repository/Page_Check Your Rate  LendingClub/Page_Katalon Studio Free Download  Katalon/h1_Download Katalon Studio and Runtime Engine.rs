@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Download Katalon Studio and Runtime Engine</name>
+   <tag></tag>
+   <elementGuidId>a7221653-108a-497c-b880-a2bf01721795</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.hero_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>d7e652b5-ce63-42ce-ac47-2e8e9fe02f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hero_title</value>
+      <webElementGuid>b3acd750-f50c-4608-b3c2-254daf6773cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download Katalon Studio and Runtime Engine</value>
+      <webElementGuid>1bcc99be-ebd5-4ae1-9b7b-f7fb873c2b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;DownloadPage_wrapDownload__oXIBd&quot;]/div[@class=&quot;download_page_container&quot;]/h1[@class=&quot;hero_title&quot;]</value>
+      <webElementGuid>2e7c7f42-0ef2-4a67-b19d-85cb6c52f920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/h1</value>
+      <webElementGuid>b32c82f4-3d2b-4988-a4cd-114ebb3b1f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[2]/following::h1[1]</value>
+      <webElementGuid>12f200a9-2a11-4bc6-abf7-93e0417b999e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Being here'])[2]/following::h1[1]</value>
+      <webElementGuid>57e2bdb9-52d6-4824-834e-92bff0d6bb1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows 64'])[1]/preceding::h1[1]</value>
+      <webElementGuid>6027d5bc-fe24-4768-8ff8-12717c038f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download Katalon Studio and Runtime Engine']/parent::*</value>
+      <webElementGuid>748eb86e-da61-4d20-80c6-2db441c961d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>19865022-e336-4740-944e-e78bc557e38e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Download Katalon Studio and Runtime Engine' or . = 'Download Katalon Studio and Runtime Engine')]</value>
+      <webElementGuid>afc56a73-ecc3-49e5-96b9-251c542320cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

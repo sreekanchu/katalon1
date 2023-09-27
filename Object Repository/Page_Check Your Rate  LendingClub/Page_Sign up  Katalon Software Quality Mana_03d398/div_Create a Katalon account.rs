@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create a Katalon account</name>
+   <tag></tag>
+   <elementGuidId>0b889cbd-afcb-4f15-826d-6329bde76e72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0feb67c-0892-4598-908a-58efc4693465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form_title</value>
+      <webElementGuid>ac0a0c6b-e8a0-4185-9670-07b0a84c6114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create a Katalon account</value>
+      <webElementGuid>6b49a7ab-79b4-498c-8670-c7cf521a84e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;SignUp_wrapSignup__nLnnj&quot;]/div[@class=&quot;sign_up_section&quot;]/div[@class=&quot;sign_up_form&quot;]/div[@class=&quot;form_title&quot;]</value>
+      <webElementGuid>9d47a823-1a73-4be4-8810-34b292811f19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/div/div[2]</value>
+      <webElementGuid>9dbe23a7-1ddb-4c5d-bb3a-82ff286ecad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::div[4]</value>
+      <webElementGuid>9e5d2a6f-add0-45ef-8684-8d8affb6909b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already have an account?'])[1]/following::div[5]</value>
+      <webElementGuid>2af27fe8-550c-40cd-8a3b-4f2a9d35643b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/preceding::div[10]</value>
+      <webElementGuid>cc031ed7-6e27-49ce-b0dc-aa4627e497ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create a Katalon account']/parent::*</value>
+      <webElementGuid>9b4040b8-1eb0-4cb5-bad0-0a8ed9419b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>b325ccfa-2171-48ce-98c2-ef51003bfe6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create a Katalon account' or . = 'Create a Katalon account')]</value>
+      <webElementGuid>e09be5a3-5a6b-4f80-b8f2-2b3a76bbb4f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
