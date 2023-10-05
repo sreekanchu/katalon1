@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>03e97576-acfc-4260-9da9-1e54dd7b1ff1</webElementGuid>
+      <webElementGuid>0b881f88-fcff-4ccd-b7b1-e59896a041d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn_secondary btn_contact trackable</value>
-      <webElementGuid>465e03d0-a832-434d-8310-5f31018f53d6</webElementGuid>
+      <webElementGuid>e6ec4ec4-932b-4d53-9d50-308889901ad1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/download</value>
-      <webElementGuid>f582c790-27fa-467e-a836-e50edab4b712</webElementGuid>
+      <webElementGuid>65b05f32-f37f-4be8-8c46-6e4d07b505de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-event-name</name>
       <type>Main</type>
       <value>Top Nav Download Studio Button Clicked</value>
-      <webElementGuid>0453e67c-6a06-4366-8429-681eaa7b9f30</webElementGuid>
+      <webElementGuid>acc58d3b-3b14-4d5f-af26-4ae588aa2c0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-event-category</name>
       <type>Main</type>
       <value>User acquisition</value>
-      <webElementGuid>a936884b-f3ea-4126-aff5-339a1869d1ab</webElementGuid>
+      <webElementGuid>f7404ab5-0a50-4368-9ce7-f6d2042a76ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-event-label</name>
       <type>Main</type>
       <value>All pages</value>
-      <webElementGuid>87b26604-1594-4e0a-9264-a7e97ece2a0f</webElementGuid>
+      <webElementGuid>87186070-7fd3-4c27-8d3d-0f93f61360ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Download Studio</value>
-      <webElementGuid>9812b105-c9a6-4c3f-b45a-e22503362c7b</webElementGuid>
+      <webElementGuid>fcbeec06-8cc1-4e51-ae16-401b8e837ce6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header undefined&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;right_button&quot;]/a[@class=&quot;btn_secondary btn_contact trackable&quot;]</value>
-      <webElementGuid>bbbcb0f2-8c84-45eb-84ae-091f74426f46</webElementGuid>
+      <webElementGuid>a76083ef-2b37-4cad-8b5a-f1ad6855061e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='katalon_header']/section[2]/div/div[2]/a</value>
-      <webElementGuid>dc65d1af-98e3-41f7-8d22-44845cb8c5a4</webElementGuid>
+      <webElementGuid>1a7469ff-60b9-4549-9447-94769f44383e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Download Studio')]</value>
-      <webElementGuid>fce84408-b7b8-48fc-a1b4-db95f095edb3</webElementGuid>
+      <webElementGuid>ffb1da47-1f5f-4158-a02d-9d9e642b827f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[1]/following::a[1]</value>
-      <webElementGuid>36b85784-81fe-47aa-ab9b-8f6df5c0b64d</webElementGuid>
+      <webElementGuid>528eb68b-8913-40ad-b7d0-54661b1125e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Being here'])[1]/following::a[2]</value>
-      <webElementGuid>cff14a0b-618c-496d-97f8-67c8fa68da67</webElementGuid>
+      <webElementGuid>d7d2353f-6183-486d-aa49-accd5de4be69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start free trial'])[1]/preceding::a[1]</value>
-      <webElementGuid>5d7c50f9-1ede-4b61-b35b-1aed0a59972f</webElementGuid>
+      <webElementGuid>bcbc85e9-ef94-486c-82dc-342aa606b8ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start free trial'])[2]/preceding::a[4]</value>
-      <webElementGuid>1c86db8d-2dec-4106-b777-cca6427e32a4</webElementGuid>
+      <webElementGuid>056fb991-24a0-41af-90cc-2df471ab329f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Download Studio']/parent::*</value>
-      <webElementGuid>2df93a89-f412-4051-b0d7-1deb97d74cbe</webElementGuid>
+      <webElementGuid>c7e07d49-4dec-4081-894a-3dd5d59311e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/download')]</value>
-      <webElementGuid>f11c3843-e554-4db9-a9d2-1d4a44c1e9ee</webElementGuid>
+      <webElementGuid>9ff9c350-493a-4d18-9208-1a07d02d01a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[2]/div/div[2]/a</value>
-      <webElementGuid>c1c6f7db-a35c-4e8e-b8d6-346a85f6cec3</webElementGuid>
+      <webElementGuid>98fa88c1-a2f4-4687-8824-f788487458e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/download' and (text() = 'Download Studio' or . = 'Download Studio')]</value>
-      <webElementGuid>e5b058e1-1a16-4380-9ad8-759aff860bc1</webElementGuid>
+      <webElementGuid>a7c53f90-1c26-46e7-8ccc-8fe57b35af10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
