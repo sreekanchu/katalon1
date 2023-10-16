@@ -6,12 +6,12 @@
    <elementGuidId>4bc5eb92-111b-4c7e-9a6e-605f3ecf4886</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h1.hero_title</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='__next']/main/div[2]/section/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.hero_title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>9fa03b57-5810-41c9-926a-669f7e032e88</webElementGuid>
+      <webElementGuid>4b962e3f-5756-44a0-8ec5-926da94a6794</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hero_title</value>
-      <webElementGuid>5d018754-06da-43fa-bc01-a6cb7684fad3</webElementGuid>
+      <webElementGuid>0d8ef22d-fa65-4a6a-8cc4-1e6d4fe32ad0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Seamless test automation, supercharged by AI</value>
-      <webElementGuid>50ca2e46-ed53-49fa-afa1-d80b6c6f4c86</webElementGuid>
+      <webElementGuid>e7216ec0-b85e-41b9-bdd0-bb84b07f3d60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;HomePage_wrapHomePage__zdHwS&quot;]/section[@class=&quot;hero_section&quot;]/h1[@class=&quot;hero_title&quot;]</value>
-      <webElementGuid>27d74e0c-699a-4d5c-8997-fc41428257b7</webElementGuid>
+      <webElementGuid>fb95db70-552d-423f-9360-b36731d51134</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/main/div[2]/section/h1</value>
-      <webElementGuid>673906b5-0aa0-4627-b971-07b3257ff2c9</webElementGuid>
+      <webElementGuid>9205975a-0841-46b2-86fa-57d33ff20a17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[2]/following::h1[1]</value>
-      <webElementGuid>5824f9de-5fed-4935-917e-21bbfdcc727e</webElementGuid>
+      <webElementGuid>895bfcb8-ca7d-4a44-83e9-06e1fbe80c8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Being here'])[2]/following::h1[1]</value>
-      <webElementGuid>f6f84021-d7a2-49f6-afd4-76d5b3f650b0</webElementGuid>
+      <webElementGuid>e4c9dc49-2f41-4a61-a559-f0fdde2a869d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Write tests faster, get clearer insights, and improve coverage with an AI-augmented platform.'])[1]/preceding::h1[1]</value>
-      <webElementGuid>e3aec64d-fe87-4b42-9485-6d5eb657c18c</webElementGuid>
+      <webElementGuid>b637de2e-c2a1-4e4f-a55d-69f2803b33cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Seamless test automation,']/parent::*</value>
-      <webElementGuid>3b0452bc-6933-4460-bc4f-873a30bd0550</webElementGuid>
+      <webElementGuid>00b874f8-5d5a-4d04-916b-5d13ec21b371</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>3db6ae6f-aa6d-4b00-a801-7039d29057d8</webElementGuid>
+      <webElementGuid>2f3eadd3-3b2d-47da-8693-55834a37c3fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Seamless test automation, supercharged by AI' or . = 'Seamless test automation, supercharged by AI')]</value>
-      <webElementGuid>b741c758-91e2-40b3-bffb-6a2dd62353d6</webElementGuid>
+      <webElementGuid>0ef73498-82f4-4f45-ad80-fb197f1b4e75</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
