@@ -6,12 +6,12 @@
    <elementGuidId>23d77df8-2b84-42db-a417-de1f9cf70116</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;Katalon&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='katalon_header']/section[2]/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Katalon&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>612fd05b-3a3c-4fbd-b9b7-9696f5c77855</webElementGuid>
+      <webElementGuid>a8fac1ba-d8b0-4ec4-a79d-24c2cb31b600</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg</value>
-      <webElementGuid>e237cc06-bd58-443d-8be2-30377dede9eb</webElementGuid>
+      <webElementGuid>a2468a50-8aa6-464f-b2ba-68a4b8e2ab81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Katalon</value>
-      <webElementGuid>44988702-0055-4793-a0c2-4725a9db4843</webElementGuid>
+      <webElementGuid>8f634c1b-6b62-45b7-9dfa-5d693f66e450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header undefined&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/a[@class=&quot;katalon_logo&quot;]/img[1]</value>
-      <webElementGuid>648c9101-2887-4aff-9253-f91c33b34dcb</webElementGuid>
+      <webElementGuid>586ec05b-ba80-4382-8acb-63406dc2caa5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='katalon_header']/section[2]/div/div/a/img</value>
-      <webElementGuid>81c576c5-2d49-422c-ab01-9861e6b4ec02</webElementGuid>
+      <webElementGuid>c44f126e-e7b6-4ffa-9ecc-5367c3cca142</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Katalon']</value>
-      <webElementGuid>2eab87e7-def0-4f9d-9110-91afdfe8cd8f</webElementGuid>
+      <webElementGuid>77f7e5fe-8ad5-48f0-adb2-832e5eb431b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>dd303b59-57db-4e7b-b6ce-96262ff425fe</webElementGuid>
+      <webElementGuid>c3027d54-66fc-4ce5-8b4c-c4c8658c5f53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg' and @alt = 'Katalon']</value>
-      <webElementGuid>4252398a-95ea-4d1a-94d5-273bac313f1e</webElementGuid>
+      <webElementGuid>afca4f65-312e-4ed3-b8ac-de3041cb9098</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,10 +1,11 @@
 version: 2.1
-orbs:
-    katalon-studio: katalon/katalon-studio@23.0.11
-    
-workflows:
+jobs:
   build:
-    jobs:
-        - katalon-studio/run:
-                version: "latest"
-                command_arguments: '-browserType="Chrome" -retry=2 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest"'
+    docker:
+      - image: alpine:3.15
+    steps:
+      - run:
+          name: The First Step
+          command: |
+            echo 'Hello World!'
+            echo 'This is the delivery pipeline'
