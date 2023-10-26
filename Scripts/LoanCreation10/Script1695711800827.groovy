@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.lendingclub.com/')
-
 WebUI.takeScreenshotAsCheckpoint('loan_creation10')
+
+WebUI.navigateToUrl('jill')
 
 WebUI.closeBrowser()
 
